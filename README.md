@@ -6,4 +6,4 @@ Project preview: https://www.youtube.com/watch?v=cTZwxbuFFHo
 
 Detailed tutorial: https://forum.uipath.com/t/uipath-jenkins-cicd-pipeline-tutorial-part-1
 
-Updated for weebhook
+weebhook
